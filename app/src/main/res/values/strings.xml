@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwoTouchMail</string>
+    <string name="button_pickup">むかえにきて</string>
+    <string name="button_no_dinner"> めしいらない</string>
+    <string name="button_send">送信</string>
+    <string name="subject" >懸命</string>
+    <string name="place">場所</string>
+    <string name="station">駅</string>
+    <string name="school">学校</string>
+    <string name="always">いつもの場所</string>
+    <string name="mail_to">moomindq10@gmail.com</string>
+    <string name="mail_to1">moomindq10@gmail.com</string>
+    <string name="mail_to2">moomindq10@gmail.com</string>
+</resources>
